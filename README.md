@@ -1,10 +1,10 @@
 Exceptional Realty Group Website
 ----
-# Description 
+# Description
 
-This is an example site for the Intro to Front-end Web 
-Development Course at The Flatiron School. 
+This is an example site for the Intro to Front-end Web
+Development Course at The Flatiron School.
 
-# Contact 
+# Contact
 
 email: eskinhd@gmail.com 
